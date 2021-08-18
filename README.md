@@ -1,4 +1,4 @@
-# Hack-Bloob-Pressure-Monitor-SCIAN-LD732
+# Hack Bloob Pressure Monitor SCIAN LD732
 ENG
 
 I2C Hack for blood pressure monitor for e-HEALTH o medical electronic scholar projects using Arduino.
